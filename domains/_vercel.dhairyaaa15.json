@@ -6,5 +6,6 @@
   "records": {
     "CNAME": "dhairyaaa15.vercel.app",
     "TXT": "vc-domain-verify=dhairyaaa15.is-a.dev,578c33ab6f599e4e1656"
-  }
+  },
+  "proxied": true
 }
